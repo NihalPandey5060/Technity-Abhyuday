@@ -1,8 +1,8 @@
 # CodeForces
 | tasks | status |
 | ---------------- | ---------------- |
-| task-1 | Yet to complete |
-| task-2 | done |
-| task-3 | done |
-| task-4 | done |
-| task-5 | done |
+| task-1A | Yet to complete |
+| task-71A | done |
+| task-158A | done |
+| task-282A | done |
+| task-96A | done |
