@@ -1,4 +1,4 @@
-```
+
 string='localization is good but internationalization is better'
 list=string.split(' ')
 # print(list)
@@ -10,4 +10,3 @@ for i in list:
     else:
         new_list.append(i)
 print(new_list)
-```
