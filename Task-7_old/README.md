@@ -1,4 +1,4 @@
-# CodeForces Problems
+## CodeForces Problems
 | tasks | status |
 | ---------------- | ---------------- |
 | task-1A | Yet to complete |
@@ -7,7 +7,7 @@
 | task-282A | done |
 | task-96A | done |
   
-# hackerRank Problems
+## hackerRank Problems
 
 | tasks | status |
 | ---------------- | ---------------- |
