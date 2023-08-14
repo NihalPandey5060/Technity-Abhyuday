@@ -1,0 +1,29 @@
+Q1- no
+
+Q2- import pyinputplus
+
+Q3- inputInt(): it is used to make sure the user is entering integer number only
+	If the user isnt entering integer, it will prompt the user to enter an integer
+    inputfloat(): it is used to make sure the user is entering float number only
+	If the user isnt entering float, it will prompt the user to enter an float
+
+Q4- we will enter the following code to ensure user gives int between 0 to 99
+import pyinputplus as pyip
+
+def validate_number(value):
+    if not value.isdigit():
+        raise Exception("Please enter a valid whole number.")
+    if int(value) < 0 or int(value) > 99:
+        raise Exception("Please enter a whole number between 0 and 99.")
+
+number = pyip.inputCustom(validate_number, prompt="Enter a number between 0 and 99: ")
+print("You entered:", number)
+
+
+Q5- allowRegexes lets you specify patterns that are allowed in user input. If any pattern matches, the input is valid. blockRegexes lets you specify patterns to block in user input. If any pattern matches, the input is considered invalid and rejected
+
+Q6-  inputStr() function will raise a RetryLimitException
+
+Q7- he function will return the default value 'hello' without raising an exception.
+
+

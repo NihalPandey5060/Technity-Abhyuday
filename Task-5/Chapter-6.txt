@@ -1,0 +1,30 @@
+Q1-  special characters used in strings to represent characters that cannot be easily typed
+    example- \n \t \b
+
+Q2- \n: Represents a newline character
+     \t: Represents a tab character
+
+Q3- To include a backslash character (\) in a string, you need to use the escape character \\
+
+Q4- Because in python we can use both double quotes and single quotes to represent strings
+
+Q5- You can break your string into multiple lines using explicit line continuation with a backslash \. This allows you to create more readable code while still having newlines in the string.
+
+Q6- 'Hello, world!'[1] = 'H'
+	'Hello, world!'[0:5] = 'Hello'
+	'Hello, world!'[:5] = 'Hello'
+	'Hello, world!'[3:] = 'lo, world!'
+Q7- 'Hello'.upper() = 'HELLO'
+	'Hello'.upper().isupper() = True
+	'Hello'.upper().lower() = 'hello'
+
+Q8- ['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']
+	There-can-be-only-one.
+
+Q9- Right-justify: str.rjust(width)
+Left-justify: str.ljust(width)
+Center: str.center(width)
+
+Q10- Beginning (Left): string.lstrip()
+End (Right): string.rstrip()
+Both Sides: string.strip()

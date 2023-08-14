@@ -1,0 +1,20 @@
+Q1- empty_dict = {}
+
+Q2- my_dict = {'foo': 42}
+
+Q3- List:  It stores items sequentially and is accessed using integer indices (starting from 0).
+    Dictionary- It stores items as key-value pairs and is accessed using keys.
+
+Q4- We will get key error because foo doesnot exist
+
+Q5- ''cat'' will give whether that key exists or not
+	'cat' will also check the presence of the it through the list of keys
+
+Q6- cat' in spam:
+This expression checks whether the key 'cat' exists in the keys of the dictionary 
+   'cat' in spam.values():
+This expression checks whether the value 'cat' exists in the values of the dictionary spam.
+
+Q7- spam.setdefault('color', 'black')
+
+Q8- pprint 

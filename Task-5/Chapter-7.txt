@@ -1,0 +1,13 @@
+Q1- re.compile()
+
+Q2-  to avoid unwanted escape character interpretation.
+
+Q3- The search() method in Python's re module returns a match object if a match is found in the string. If no match is found, it returns None
+
+Q4- use the group() method
+
+Q5- Group 0 would cover the entire matched string "123-456-7890".
+	Group 1 would cover the matched part "123" .
+	Group 2 would cover the matched part "456-7890"
+
+Q6- 
