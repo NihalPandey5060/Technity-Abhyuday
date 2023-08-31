@@ -8,5 +8,5 @@ This is where I have done my technity tasks
 | Task-3 | Yet to complete |
 | Task-4 | Yet to complete |
 | Task-5 | Done |
-| Task-6 | Yet to complete |
+| Task-6 | Done |
 | Task-7 | Done |
