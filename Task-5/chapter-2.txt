@@ -1,0 +1,110 @@
+chapter-2
+Q1- True and False
+Q2-AND, OR & NOT
+Q3- AND Operator:
+	| A | B | A && B |
+        |---|---|--------|
+        | 0 | 0 |   0    |
+        | 0 | 1 |   0    |
+	| 1 | 0 |   0    |
+	| 1 | 1 |   1    |
+    OR operator ()
+	| A | B | A || B |
+	|---|---|--------|
+	| 0 | 0 |   0    |
+	| 0 | 1 |   1    |
+	| 1 | 0 |   1    |
+	| 1 | 1 |   1    |
+    NOT operator()
+	| A | B | A ^ B |
+	|---|---|-------|
+	| 0 | 0 |   0   |
+	| 0 | 1 |   1   |
+	| 1 | 0 |   1   |
+	| 1 | 1 |   0   |
+
+
+Q4- false
+    false
+    true
+    false
+    false
+    true
+
+Q5- 
+Equal to (==)
+Not equal to (!=)
+Greater than (>)
+Less than (<)
+Greater than or equal to (>=)
+Less than or equal to (<=)
+
+
+
+Q6- Equal-To Operator (==):
+Used to compare if two values are equal.
+
+Assignment Operator (=):
+Used to assign a value to a variable.
+
+
+Q7- Condition:
+A condition is a logical expression that evaluates to either true or false. It is used to make decisions in programming, determining which code block to execute based on whether the condition is true or false.
+
+Usage:
+Conditions are used in conditional statements (like if, else, elif in Python) and loops to control the flow of a program based on different situations or data values.
+
+
+Q8- if block
+	else block
+	print block
+
+
+Q9- 
+spam = int(input("Enter a value for spam: "))  # Assuming user enters an integer value
+
+if spam == 1:
+    print("Hello")
+elif spam == 2:
+    print("Howdy")
+else:
+    print("Greetings!")
+
+
+Q10- 	ctrl+c
+
+
+Q11-
+	The break statement is used to exit a loop prematurely, regardless of whether the loop's condition has been fully satisfied.
+	The continue statement is used to skip the rest of the current iteration of a loop and move to the next iteration.
+
+
+
+Q12- All three are same and only written in a different way
+
+Q13- FOR LOOP:
+	for i in range(1, 11):
+    print(i)
+
+	WHILE LOOP:
+	i = 1
+	while i <= 10:
+	    print(i)
+	    i += 1
+
+
+Q14- spam.bacon()
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

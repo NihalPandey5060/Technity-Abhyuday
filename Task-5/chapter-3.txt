@@ -1,0 +1,50 @@
+chapter-3
+
+Q1- Abstraction: Functions allow you to hide the implementation details of a specific task behind a well-defined interface. This abstraction makes it easier to focus on high-level logic without getting bogged down in the nitty-gritty details.
+
+
+Q2- When the function is called
+
+Q3- def functionname(parameters)
+	def creates function\
+
+Q4- A function is a block of organized, reusable code that performs a specific task.
+
+It is the process of invoking or using a function in your code to perform a specific task.
+
+Q5- There is only one global scope but local scope can be many
+
+Q6- local variables cease to exist
+
+Q7- A return value is the value that a function sends back to the         	caller when the function completes its execution. 
+     Yes, a return value can absolutely be part of an expression. 
+
+
+Q8- It returns 'none'
+
+
+Q9- n Python, if you want to modify a global variable within a function, you need to use the global keyword to indicate that you're working with the global variable and not creating a new local variable with the same name.
+
+Q10- its a none data type which represents null value
+
+Q11- this function does not exist
+
+Q12- spam.bacon()
+
+
+Q13- We can do exceptional handling by using Try-Except blocks of codes and it wont crash the file
+
+
+Q14- The try clause contains the code that might raise an    		exception
+	The except clause contains the code that will be executed if an exception of the specified 
+
+
+
+
+
+
+
+
+
+
+

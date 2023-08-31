@@ -1,0 +1,11 @@
+chapter 1
+Q1- 2nd,3rd and 7th are values rest are operatrs
+Q2- spam is variable 'spam' is string
+Q3- int, string,bool
+Q4- An expression is a construct made up of variables, operators, and methods. They help calculate stuff
+Q5- expressions can be assigned to variables and used to calculate values meanwhile statements are declared and used directly
+Q6- 20
+Q7- spamspamspam
+Q8- eggs is valid while 100 is invalid because the first character of a variable name is supposed to start with alphabets 
+Q9- If the value is 'x' then we simply put the value in int(x) to make it int, float(x) to make  it float and str(x) to make it string
+Q10- because 99 is not a string and only strings can be joined using '+' symbol

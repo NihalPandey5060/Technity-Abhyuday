@@ -1,0 +1,57 @@
+chapter-4
+
+Q1- '[]' is used to represent the index and modify,delete or traverse through a list
+
+Q2- spam = [2, 4, 6, 8, 10]
+    spam[2] = 'hello'  # Assign 'hello' to the third value (index 2) 
+    print(spam)
+
+Q3-  This will help us access the element spam[3] element in the spam list
+
+Q4- d
+
+Q5- a,b
+
+Q6- 1
+Q7- [3.14, 'cat', 11, 'cat', True,99]
+Q8- [3.14, 11, 'cat', True]
+
+Q9- list concatenation- ' + '
+	list repetition- ' * '
+Q10- append() adds an element at the end of the list and insert lets you put the element at a specific index
+
+Q11- list.remove() and del statement
+Q12- both string and lists use concatenation using + symbol 
+	both use len() method to find length
+	both use indexing
+
+Q13- A tuple is a single item whereas list is a collections of several items
+
+list syntax- []
+tulpe syntax- ()
+
+list are mutabole
+tuples are immutable
+
+
+Q14-  random_tuple=(20,)
+	we used comma otherwise the above mentioned variable would 	have become just an integer variable
+
+
+
+Q15- to convert tuple to list use----> list() method
+	to convert list to tuple use---> tuple() method
+
+Q16- they only contain the references to the memory locations
+
+Q17- copy.copy() will create a shallow copy of 'copy' while referencoing the same old location
+	deepcopy() will actually create new memery locations to copy it authentically
+
+
+
+Q18- 
+
+
+
+
+
