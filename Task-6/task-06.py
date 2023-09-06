@@ -24,6 +24,18 @@ def getMovie(message):
     
     if response.status_code == 200:
         tb.reply_to(message, response.text)
+        
+        movie_info=json.loads(response.text)
+        
+        csv_file='file.csv'
+        with open(csv_file, mode='a',newline='\r\n') as file:
+            writer = csv.writer(file)
+    
+            writer.writerow(response.text)
+
+
+
+    
     else:
         tb.reply_to(message, 'Sorry, couldn\'t fetch movie information.')
 tb.infinity_polling()
