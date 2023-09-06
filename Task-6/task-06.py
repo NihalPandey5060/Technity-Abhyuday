@@ -5,9 +5,12 @@ from key import get_key
 from key import get_token
 
 
+
+
 apiKey = get_key()
 token = get_token()
 
+# Used .gitignore
 # telegram-tb token
 
 tb=telebot.TeleBot(token)      
