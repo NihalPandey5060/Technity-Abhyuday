@@ -8,7 +8,7 @@ from key import get_token
 apiKey = get_key()
 token = get_token()
 
-# token: Final ='6333824276:AAEcDTYjzk2TMSGFKXqCnR48wECFWklsrgs'  # telegram-tb token
+# telegram-tb token
 
 tb=telebot.TeleBot(token)      
 @tb.message_handler(commands=['movie'])
